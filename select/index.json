@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アッシュ / IA",
+  "base_artist": "ichica",
+  "createdAt": "2026-02-18T10:47:39.756048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アッシュ",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/01_アッシュ_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アッシュ",
+      "artist": "ELLEGARDEN",
+      "has_synced": false,
+      "path": "select/02_アッシュ_ELLEGARDEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アッシュ",
+      "artist": "ichica",
+      "has_synced": false,
+      "path": "select/pl_01_アッシュ_ichica.txt"
+    }
+  ]
+}
